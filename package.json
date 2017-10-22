@@ -1,0 +1,29 @@
+{
+  "name": "com.kurantsou.gicbelsofttest",
+  "displayName": "GicBelsoftTest",
+  "version": "1.0.0",
+  "description": "A sample Apache Cordova application.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Artsem Kurantsou",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "cordova-android": "^6.3.0",
+    "cordova-plugin-cocoapod-support": "^1.2.10",
+    "cordova-plugin-googleplus": "^5.1.1",
+    "cordova-plugin-whitelist": "^1.3.2"
+  },
+  "cordova": {
+    "plugins": {
+      "cordova-plugin-whitelist": {},
+      "cordova-plugin-googleplus": {
+        "REVERSED_CLIENT_ID": "com.kurantsou.gicbelsofttest"
+      }
+    },
+    "platforms": [
+      "android"
+    ]
+  }
+}

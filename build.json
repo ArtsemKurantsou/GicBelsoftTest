@@ -1,0 +1,16 @@
+{
+    "android": {
+        "debug": {
+            "keystore": "platforms/android/keystore.jks",
+            "storePassword": "GicBelsoftTest",
+            "alias": "debug",
+            "password" : "GicBelsoftTest"
+        },
+        "release": {
+            "keystore": "platforms/android/keystore.jks",
+            "storePassword": "GicBelsoftTest",
+            "alias": "debug",
+            "password" : "GicBelsoftTest"
+        }
+    }
+}

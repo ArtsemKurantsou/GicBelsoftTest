@@ -1,0 +1,108 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-cocoapod-support@1.2.10",
+        "scope": null,
+        "escapedName": "cordova-plugin-cocoapod-support",
+        "name": "cordova-plugin-cocoapod-support",
+        "rawSpec": "1.2.10",
+        "spec": "1.2.10",
+        "type": "version"
+      },
+      "E:\\Projects\\GicBelsoftTest"
+    ]
+  ],
+  "_from": "cordova-plugin-cocoapod-support@1.2.10",
+  "_id": "cordova-plugin-cocoapod-support@1.2.10",
+  "_inCache": true,
+  "_location": "/cordova-plugin-cocoapod-support",
+  "_nodeVersion": "4.3.2",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-cocoapod-support-1.2.10.tgz_1472447323381_0.3266190846916288"
+  },
+  "_npmUser": {
+    "name": "blakgeek",
+    "email": "blakgeek@gmail.com"
+  },
+  "_npmVersion": "3.9.5",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-cocoapod-support@1.2.10",
+    "scope": null,
+    "escapedName": "cordova-plugin-cocoapod-support",
+    "name": "cordova-plugin-cocoapod-support",
+    "rawSpec": "1.2.10",
+    "spec": "1.2.10",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-cocoapod-support/-/cordova-plugin-cocoapod-support-1.2.10.tgz",
+  "_shasum": "f5d6b09822971afa3574b19010ca3c493f45a305",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-cocoapod-support@1.2.10",
+  "_where": "E:\\Projects\\GicBelsoftTest",
+  "bugs": {
+    "url": "https://github.com/blakgeek/cordova-plugin-cocoapods-support/issues"
+  },
+  "bundleDependencies": [
+    "command-exists",
+    "xml2js",
+    "sax",
+    "xmlbuilder",
+    "lodash"
+  ],
+  "cordova": {
+    "id": "cordova-plugin-cocoapod-support",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "dependencies": {
+    "command-exists": "^1.0.1",
+    "lodash": "*",
+    "sax": "*",
+    "semver": "^5.3.0",
+    "xml2js": "^0.4.16",
+    "xmlbuilder": "*"
+  },
+  "description": "A Cordova/PhoneGap plugin to add support for Cocoapod dependencies.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "f5d6b09822971afa3574b19010ca3c493f45a305",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-cocoapod-support/-/cordova-plugin-cocoapod-support-1.2.10.tgz"
+  },
+  "gitHead": "776703f7ad58149ca4bf1e117bdaaff47d4aa611",
+  "homepage": "https://github.com/blakgeek/cordova-plugin-cocoapods-support",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-ios",
+    "cordova:plugin",
+    "cocoapods",
+    "pod",
+    "pods",
+    "plugin"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "blakgeek",
+      "email": "blakgeek@gmail.com"
+    }
+  ],
+  "name": "cordova-plugin-cocoapod-support",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blakgeek/cordova-plugin-cocoapods-support.git"
+  },
+  "scripts": {},
+  "version": "1.2.10"
+}
